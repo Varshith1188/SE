@@ -1,0 +1,4 @@
+MILESTONES:
+1] submission of identification proof to RTO.
+2] Verification of identification proof at RTO.
+3]Generation of License(among two licenses).
